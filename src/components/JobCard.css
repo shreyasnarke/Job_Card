@@ -1,0 +1,14 @@
+.card{
+    background-color: rgb(24, 26, 27);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    transition: transform 0.2s;
+    width: 300px;
+}
+.card-title{
+    padding: 10px;
+    text-align: left;
+}
